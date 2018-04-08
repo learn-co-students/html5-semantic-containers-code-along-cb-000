@@ -8,7 +8,7 @@
 
 Building upon previous code alongs, in this exercise you will add HTML5 Semantic Elements by coding along with the video provided, reviewing the concepts you were introduced to in the previous lessons.
 
-## Instructions
+## Instructionselement represents a section of the page with content connected tangentially to the rest, which could be considered separate from that content. These sections are often represented as sidebars or inserts. They often contain the definitions on the sidebars, such as definitions from the glossary; there may also be other types of information, such as related a
 
 ## Tasks for LearnIDE Environment Users
 
