@@ -7,7 +7,7 @@
 ## Introduction
 
 Building upon previous code alongs, in this exercise you will add HTML5
-Semantic Elements by coding along with the video provided, reviewing the
+'Semantic Elements' by coding along with the video provided, reviewing the
 concepts you were introduced to in the previous lessons. All the files you need
 to follow along are provided, but if you would like to continue working from
 your personal `exception-realty` repository:
