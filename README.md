@@ -17,7 +17,7 @@ git clone https://github.com/<your_username_here>/exceptional-realty
 cd exceptional-realty
 ```
 
-## Instructions
+## Instructions for Using
 
 * Fork this repository on Github.
 * Use Terminal to clone your forked copy.
