@@ -52,7 +52,7 @@ defining that content as the head of our document.
 
 #### Nav
 
-Next let's wrap our links in the `<nav>` element like so,
+Next, Let's wrap our links in the `<nav>` element like so,
 
 ```html
   <header>
