@@ -69,7 +69,7 @@ this page. Looking good!
 
 #### Section
 
-Next we will section off our page by adding a `<section>` element wrapping our
+Next, We will section off our page by adding a `<section>` element wrapping our
 `<img>` image and `<p>`paragraphs like so,
 
 ```html
