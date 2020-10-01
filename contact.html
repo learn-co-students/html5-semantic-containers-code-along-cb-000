@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -20,17 +21,44 @@
 
   <!-- Contact Form -->
 
-  <form action="#" method="post">
-    <label for="fullname">Name</label>
-    <input type="text" id="fullname" name="fullname" placeholder="your name" required>
-    <label for="email">Email</label>
-    <input type="email" id="email" name="email" placeholder="your email" required>
-    <label for="phone">Phone</label>
-    <input type="tel" id="phone" name="phone" placeholder="your phone (optional)">
-    <label for="message">Message</label>
-    <textarea id="message" name="message" rows="10"></textarea>
-    <input type="submit" value="send">
-  </form>
+  <form action="#">
+   
+    <div>
+        Name:<input type="text" name="myName">
+    </div>
+    <br>
+    <div>
+        Father:<input type="text" name="myFather">
+    </div>
+    <br>
+    <div>
+        Ph.No:<input type="numbers" name="myPh.No">
+    </div>
+    <br>
+    <div>
+        Email:<input type="email" name="myEmail">
+    </div>
+    <br>
+    <div>
+        Gender:Male<input type="radio" name="myGender"> Female
+        <input type="radio" name="myGender"> other
+        <input type="radio" name="myGender">
+    </div>
+    
+    <div>
+        Write Abut Yourself: <br>
+        <textarea name="myText" id="abot" cols="30" rows="10"></textarea>
+    </div>
+    <br>
+    <div>
+        All Is Right:<input type="checkbox" name="myRight">
+    </div>
+    <br>
+    <div>
+        <input type="reset" value="Reset Now" name="mydata">
+        <input type="submit" value="Submit Now" name="mydata">
+    </div>
+</form>
   
 </body>
 </html>
