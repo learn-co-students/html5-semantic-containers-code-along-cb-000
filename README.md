@@ -6,8 +6,8 @@
 
 ## Introduction
 
-Building upon previous code alongs, in this exercise you will add HTML5
-Semantic Elements by coding along with the video provided, reviewing the
+Building upon previous code alongs, in this exercise you will learn and add 
+HTML5 Semantic Elements by coding along with the video provided, reviewing the
 concepts you were introduced to in the previous lessons. All the files you need
 to follow along are provided, but if you would like to continue working from
 your personal `exception-realty` repository:
@@ -30,7 +30,7 @@ cd exceptional-realty
 
 ### Semantic Elements
 
-To get started create a feature branch in Terminal by typing `git checkout -b html5-layout`
+To get started, First create a feature branch in Terminal by typing `git checkout -b html5-layout`
 and press return. Then open the index.html file in your code editor.
 
 #### Header
