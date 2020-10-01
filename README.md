@@ -152,7 +152,7 @@ Now add another surrounding our video player.
 
 Don't forget to indent the content such as the video and image that are nested
 inside of our `<figure>` elements. Then you can save this file and give it a
-preview in the browser. Since we just surrounded the preexisting content it
+preview in the browser.Even you can use HTTRACK website Compier Since we just surrounded the preexisting content it
 won't look too different, although the HTML5 semantic elements do act as boxes
 that will stack vertically giving some separation between each and the figures
 do have some default spacing that will indent the video and image a bit.
