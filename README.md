@@ -1,4 +1,4 @@
-# HTML5 Semantic Containers Code-along
+# HTML5 Semantic Containers Code-Along
 
 ## Objectives
 
@@ -28,7 +28,7 @@ cd exceptional-realty
 
 <iframe width="640" height="480" src="//www.youtube.com/embed/xrDw6I4MSBk?rel=0" frameborder="0" allowfullscreen></iframe>
 
-### Semantic Elements
+#### Semantic Elements
 
 To get started create a feature branch in Terminal by typing `git checkout -b html5-layout`
 and press return. Then open the index.html file in your code editor.
