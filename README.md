@@ -30,7 +30,7 @@ cd exceptional-realty
 
 ### Semantic Elements
 
-To get started create a feature branch in Terminal by typing `git checkout -b html5-layout`
+To get started firstly create a feature branch in Terminal by typing `git checkout -b html5-layout`
 and press return. Then open the index.html file in your code editor.
 
 #### Header
