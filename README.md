@@ -6,8 +6,8 @@
 
 ## Introduction
 
-Building upon previous code alongs, in this exercise you will add HTML5
-Semantic Elements by coding along with the video provided, reviewing the
+Building upon previous code alongs, in this exercise you will learn and add 
+HTML5 Semantic Elements by coding along with the video provided, reviewing the
 concepts you were introduced to in the previous lessons. All the files you need
 to follow along are provided, but if you would like to continue working from
 your personal `exception-realty` repository:
@@ -30,7 +30,7 @@ cd exceptional-realty
 
 ### Semantic Elements
 
-To get started create a feature branch in Terminal by typing `git checkout -b html5-layout`
+To get started, First create a feature branch in Terminal by typing `git checkout -b html5-layout`
 and press return. Then open the index.html file in your code editor.
 
 #### Header
@@ -52,7 +52,7 @@ defining that content as the head of our document.
 
 #### Nav
 
-Next let's wrap our links in the `<nav>` element like so,
+Next, Let's wrap our links in the `<nav>` element like so,
 
 ```html
   <header>
@@ -69,7 +69,7 @@ this page. Looking good!
 
 #### Section
 
-Next we will section off our page by adding a `<section>` element wrapping our
+Next, We will section off our page by adding a `<section>` element wrapping our
 `<img>` image and `<p>`paragraphs like so,
 
 ```html
